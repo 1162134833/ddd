@@ -1,0 +1,52 @@
+#foot{/*height: 236px;*/
+	background: #023c4d;}
+.foot1{height: 178px;
+		border-bottom: 1px solid #fff;}
+.foot11{width: 1000px;
+		height: 178px;
+		/*background: blue;*/
+		margin:0 auto;
+		overflow: hidden;}
+.foot11 div{float: left;}
+.foot111{width: 84px;
+			/*height: 178px;*/
+			/*background:#EF5F5F;*/
+			margin-left: 60px;
+			padding: 19px 0 19px 0; }
+.fp1{font:18px "微软雅黑";
+	color: #fff;}
+	.fp2{font:14px "微软雅黑";
+	color: #fff;
+	margin-top: 10px;}
+.foot112{width: 84px;
+			/*height: 178px;*/
+			/*background:#453232;*/
+			padding: 19px 0 48px 0; }
+.foot113{width: 84px;
+			/*height: 178px;*/
+			/*background:#EF5F5F;*/
+			padding: 19px 0 77px 0; }
+.foot114{width: 100px;
+			/*height: 178px;*/
+			/*background:#453232;*/
+			padding: 19px 0 83px 0; }
+	.fp3{width: 100px;
+			height: 52px;
+			background: url(../img/hbt.png) -126px 10px no-repeat;}
+.foot115{width: 200px;
+			/*height: 178px;*/
+			/*background:#374532; */
+			padding: 19px 0 44px 0;}
+.fp4 input{width: 130px;
+			height: 25;
+			font:14px "微软雅黑";
+			color:#29505e;
+			margin-top:10px; 
+			border-radius: 5px;
+			background: #fff;}
+.foot112,.foot113,.foot114,.foot115{margin-left: 65px;}
+.footp{width: 520px;
+		font:14px "微软雅黑";
+		color:#b4b9bb;
+		margin: 0 auto;
+		padding-bottom: 38px;}
